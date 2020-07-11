@@ -1,1 +1,2 @@
 # MyPython
+print("hello word")
